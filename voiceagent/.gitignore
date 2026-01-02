@@ -1,4 +1,7 @@
+virtual/
+__pycache__/
+*.pyc
 .env
-voiceagent/.env
+
 
 
